@@ -1,0 +1,14 @@
+/* Global Styles */
+:root {
+    --header-height: 75px;
+    --content-font-size: 16px;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    margin: 0px;
+    font-size: var(--content-font-size);
+}
